@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "37050160526",
+    "firebase_url": "https://ocr---optical-character-reader.firebaseio.com",
+    "project_id": "ocr---optical-character-reader",
+    "storage_bucket": "ocr---optical-character-reader.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37050160526:android:934ecea1da4adaaefec0df",
+        "android_client_info": {
+          "package_name": "com.ocr_opticalcharacterreader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37050160526-huharjaqbpdg10knamp3c0joplohje16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4Fop5pN3WYHtDblS9A_grwMFBVMZzSSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37050160526-huharjaqbpdg10knamp3c0joplohje16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
